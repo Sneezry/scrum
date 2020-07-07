@@ -36,7 +36,7 @@
 
 1. 浏览共享仓库的PR列表，比如这个仓库：https://github.com/letsscrum/scrum/pulls
 
-2. 切换到Files changed标签，选择Display the rich diff
+2. 切换到Files changed标签，选择View file
 
    ![](Snipaste_2020-07-08_00-33-07.png)
 
